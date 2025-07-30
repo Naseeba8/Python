@@ -1,1 +1,3 @@
-naseeba n.
+n=int(input())
+b=['even','odd']
+print(b[n%2])
